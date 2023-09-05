@@ -1,5 +1,6 @@
 # Genomic-Analysis-and-Chaos-Game-representation-of-ratg13-and-sars-cov2
-Check out Report for more details
+![image](https://github.com/Venkatakrishnan-Ramesh/Genomic-Analysis-and-Chaos-Game-representation-of-ratg13-and-sars-cov2/assets/74406604/4865c4dd-3a32-4ef6-9f3a-515e75366ffc)
+
 
 Ratg13 and Sarscov2 are two viruses that have gained significant attention due to their potential impact on human health. Both viruses have been subject to genomic analysis and chaos game representation (CGR) to better understand their genetic makeup and potential for evolution.
 
